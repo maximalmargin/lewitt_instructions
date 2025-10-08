@@ -13,3 +13,7 @@ Data Source: a subset of [Sol LeWitt: A Wall Drawing Retrospective](https://mass
 
 Added manual evaluation results of DALL·E 3, Midjourney, and [Stable Diffusion 2.1](https://huggingface.co/spaces/stabilityai/stable-diffusion).
 Folder `20231015_eval` contains the generated images, and the associated DALL·E 3 prompts.
+
+## Update Oct 7, 2025
+
+Explore benchmark results built on this dataset at [LeWitt Bench](https://www.designarena.ai/leaderboard/lewitt-bench) by Design Arena.
